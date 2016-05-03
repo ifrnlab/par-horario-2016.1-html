@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<timetable ascttversion="2016.17.1" importtype="database" options="idprefix:MyApp">
+   <teachers options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <teacher id="*1" name="Alberto Alexandre" short="Alberto" htmlexportlink="teachers_0.html?frame=0"/>
+      <teacher id="*2" name="Aline Gomes" short="Aline" htmlexportlink="teachers_0.html?frame=1"/>
+      <teacher id="*3" name="Alison Batista" short="Alison" htmlexportlink="teachers_0.html?frame=2"/>
+      <teacher id="*4" name="Arlindo Lopes Barbosa" short="Arlindo" htmlexportlink="teachers_0.html?frame=3"/>
+      <teacher id="*5" name="Alvaro Hermano da Silva" short="Alvaro" htmlexportlink="teachers_0.html?frame=4"/>
+      <teacher id="*6" name="Antônio Henrique" short="Henrique" htmlexportlink="teachers_0.html?frame=5"/>
+      <teacher id="*7" name="Antonio André" short="Antonio André" htmlexportlink="teachers_0.html?frame=6"/>
+      <teacher id="*8" name="Airton Araujo" short="Airton" htmlexportlink="teachers_0.html?frame=7"/>
+      <teacher id="*9" name="Carlos Alberto de Negreiro" short="Carlos Negreiro" htmlexportlink="teachers_0.html?frame=8"/>
+      <teacher id="*10" name="Jurandy Soares" short="Jurandy" htmlexportlink="teachers_0.html?frame=9"/>
+      <teacher id="*11" name="Marcelo Varela" short="Marcelo" htmlexportlink="teachers_0.html?frame=10"/>
+      <teacher id="*12" name="Valdemiro Severiano Júnior" short="Júnior" htmlexportlink="teachers_0.html?frame=11"/>
+      <teacher id="*13" name="Eduardo Sérgio" short="Eduardo" htmlexportlink="teachers_0.html?frame=12"/>
+      <teacher id="*14" name="Irapuan Medeiros" short="Irapuan" htmlexportlink="teachers_0.html?frame=13"/>
+      <teacher id="*15" name="Carlos Magno" short="Carlos Magno" htmlexportlink="teachers_0.html?frame=14"/>
+      <teacher id="*16" name="Ricardo Cesar" short="Ricardo Cesar" htmlexportlink="teachers_0.html?frame=15"/>
+      <teacher id="*17" name="Romero Tertulino" short="Romero" htmlexportlink="teachers_0.html?frame=16"/>
+      <teacher id="*18" name="Priscila Seabra" short="Priscila" htmlexportlink="teachers_0.html?frame=17"/>
+      <teacher id="*19" name="Frank Vitor" short="Frank Vitor" htmlexportlink="teachers_0.html?frame=18"/>
+      <teacher id="*20" name="Fabia Meneses" short="Fabia" htmlexportlink="teachers_0.html?frame=19"/>
+      <teacher id="*21" name="Rogério Alves" short="Rogério" htmlexportlink="teachers_0.html?frame=20"/>
+      <teacher id="*22" name="Lúcia de Fátima" short="Lúcia" htmlexportlink="teachers_0.html?frame=21"/>
+      <teacher id="*23" name="Andrea Pereira" short="Andrea" htmlexportlink="teachers_0.html?frame=22"/>
+      <teacher id="*24" name="Givanaldo Rocha" short="Givanaldo" htmlexportlink="teachers_0.html?frame=23"/>
+      <teacher id="*25" name="Luiz Ricardo" short="Luiz Ricardo" htmlexportlink="teachers_0.html?frame=24"/>
+      <teacher id="*26" name="Emídio Gomes" short="Emídio" htmlexportlink="teachers_0.html?frame=25"/>
+      <teacher id="*27" name="Hilário" short="Hilário" htmlexportlink="teachers_0.html?frame=26"/>
+      <teacher id="*28" name="Carlos Eduardo" short="Carlos Eduardo" htmlexportlink="teachers_0.html?frame=27"/>
+      <teacher id="*29" name="Glenda Marques" short="Glenda" htmlexportlink="teachers_0.html?frame=28"/>
+      <teacher id="*30" name="Fábio Procópio" short="Fábio Procópio" htmlexportlink="teachers_0.html?frame=29"/>
+      <teacher id="*31" name="Valerio Gutemberg" short="Valério" htmlexportlink="teachers_0.html?frame=30"/>
+      <teacher id="*32" name="Bruno Emerson" short="Bruno" htmlexportlink="teachers_0.html?frame=31"/>
+      <teacher id="*33" name="Raphael Siqueira" short="Raphael" htmlexportlink="teachers_0.html?frame=32"/>
+      <teacher id="*34" name="Washington Luiz" short="Washington" htmlexportlink="teachers_0.html?frame=33"/>
+      <teacher id="*35" name="Maria Aparecida" short="Aparecida" htmlexportlink="teachers_0.html?frame=34"/>
+      <teacher id="*36" name="Ricardo Fernandes" short="Ricardo" htmlexportlink="teachers_0.html?frame=35"/>
+      <teacher id="*37" name="Eduardo Galvao" short="Eduardo Galvao" htmlexportlink="teachers_0.html?frame=36"/>
+      <teacher id="*38" name="Carlos Henrique" short="Carlos Henrique" htmlexportlink="teachers_0.html?frame=37"/>
+      <teacher id="*39" name="Diego Bacatela" short="Diego" htmlexportlink="teachers_0.html?frame=38"/>
+      <teacher id="*40" name="Rosineide" short="Rosineide" htmlexportlink="teachers_0.html?frame=39"/>
+      <teacher id="*41" name="Rodrigo Siqueira" short="Rodrigo" htmlexportlink="teachers_0.html?frame=40"/>
+      <teacher id="*42" name="Einstein" short="Einstein" htmlexportlink="teachers_0.html?frame=41"/>
+      <teacher id="*43" name="Zulmar Jofli" short="Zulmar" htmlexportlink="teachers_0.html?frame=42"/>
+      <teacher id="*44" name="João Mesquita" short="João Mesquita" htmlexportlink="teachers_0.html?frame=43"/>
+      <teacher id="*45" name="Filipe Campos" short="Filipe Campos" htmlexportlink="teachers_0.html?frame=44"/>
+      <teacher id="*46" name="Gustavo Fernandes" short="Gustavo Fernandes" htmlexportlink="teachers_0.html?frame=45"/>
+      <teacher id="*47" name="Paulo Vitor" short="Paulo Vitor" htmlexportlink="teachers_0.html?frame=46"/>
+      <teacher id="*48" name="Cinthia" short="Cinthia" htmlexportlink="teachers_0.html?frame=47"/>
+      <teacher id="*49" name="Érika Santos" short="Érika" htmlexportlink="teachers_0.html?frame=48"/>
+      <teacher id="*50" name="Jefferson Pereira" short="Jefferson Pereira" htmlexportlink="teachers_0.html?frame=49"/>
+      <teacher id="*51" name="Filipe Quintaes" short="Quintaes" htmlexportlink="teachers_1.html?frame=0"/>
+      <teacher id="*52" name="Xênia Brandão" short="Xênia" htmlexportlink="teachers_1.html?frame=1"/>
+      <teacher id="*53" name="Kleber Araújo" short="Kleber" htmlexportlink="teachers_1.html?frame=2"/>
+      <teacher id="*54" name="Tadeu Ferreira Oliveira" short="Tadeu" htmlexportlink="teachers_1.html?frame=3"/>
+      <teacher id="*55" name="Victor Costa" short="Victor" htmlexportlink="teachers_1.html?frame=4"/>
+      <teacher id="*56" name="João Nascimento" short="João Nascimento" htmlexportlink="teachers_1.html?frame=5"/>
+      <teacher id="*57" name="André Gustavo" short="André Gustavo" htmlexportlink="teachers_1.html?frame=6"/>
+      <teacher id="*58" name="Demóstenes Sena" short="Demóstenes Sena" htmlexportlink="teachers_1.html?frame=7"/>
+      <teacher id="*59" name="José Soares Lopes" short="José Soares" htmlexportlink="teachers_1.html?frame=8"/>
+      <teacher id="*60" name="Marta Silva" short="Marta Helena" htmlexportlink="teachers_1.html?frame=9"/>
+      <teacher id="*61" name="Roberto Klecius" short="Roberto Klecius" htmlexportlink="teachers_1.html?frame=10"/>
+      <teacher id="*62" name="Wesley Gomes" short="Wesley" htmlexportlink="teachers_1.html?frame=11"/>
+   </teachers>
+   <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
+      <class id="*1" name="INT_INFO_1AM" htmlexportlink="index.html?frame=0"/>
+      <class id="*2" name="INT_INFO_1BV" htmlexportlink="index.html?frame=1"/>
+      <class id="*3" name="INT_INFO_2AM" htmlexportlink="index.html?frame=2"/>
+      <class id="*4" name="INT_INFO_2BV" htmlexportlink="index.html?frame=3"/>
+      <class id="*5" name="INT_INFO_3AM" htmlexportlink="index.html?frame=4"/>
+      <class id="*6" name="INT_INFO_3BV" htmlexportlink="index.html?frame=5"/>
+      <class id="*7" name="INT_INFO_4BM" htmlexportlink="index.html?frame=6"/>
+      <class id="*8" name="INT_MECA_1AM" htmlexportlink="index.html?frame=7"/>
+      <class id="*9" name="INT_MECA_1BV" htmlexportlink="index.html?frame=8"/>
+      <class id="*10" name="INT_MECA_2AM" htmlexportlink="index.html?frame=9"/>
+      <class id="*11" name="INT_MECA_2BV" htmlexportlink="index.html?frame=10"/>
+      <class id="*12" name="INT_MECA_3AM" htmlexportlink="index.html?frame=11"/>
+      <class id="*13" name="INT_MECA_3BV" htmlexportlink="index.html?frame=12"/>
+      <class id="*14" name="INT_MECA_4AM" htmlexportlink="index.html?frame=13"/>
+      <class id="*15" name="INT_MECA_4BM" htmlexportlink="index.html?frame=14"/>
+      <class id="*16" name="INT_INFO_1CV" htmlexportlink="index.html?frame=15"/>
+      <class id="*17" name="INT_MECA_1CV" htmlexportlink="index.html?frame=16"/>
+      <class id="*18" name="INT_INFO_2CM" htmlexportlink="index.html?frame=17"/>
+      <class id="*19" name="INT_MECA_2CM" htmlexportlink="index.html?frame=18"/>
+      <class id="*20" name="INT_INFO_1DM" htmlexportlink="index.html?frame=19"/>
+      <class id="*21" name="INT_MECA_1DM" htmlexportlink="index.html?frame=20"/>
+      <class id="*22" name="INT_INFO_2DV" htmlexportlink="index.html?frame=21"/>
+      <class id="*23" name="TEC_SIST_INTER_1V" htmlexportlink="index.html?frame=22"/>
+      <class id="*24" name="TEC_SIST_INTER_3V" htmlexportlink="index.html?frame=23"/>
+      <class id="*25" name="TEC_SIST_INTER_4V" htmlexportlink="index.html?frame=24"/>
+      <class id="*26" name="SUB_REDES_1N" htmlexportlink="index.html?frame=25"/>
+      <class id="*27" name="SUB_REDES_2N" htmlexportlink="index.html?frame=26"/>
+      <class id="*28" name="SUB_REDES_3N" htmlexportlink="index.html?frame=27"/>
+      <class id="*29" name="SUB_REDES_4N" htmlexportlink="index.html?frame=28"/>
+      <class id="*30" name="SUB_MECA_1N" htmlexportlink="index.html?frame=29"/>
+      <class id="*31" name="SUB_MECA_2N" htmlexportlink="index.html?frame=30"/>
+      <class id="*32" name="SUB_MECA_3N" htmlexportlink="index.html?frame=31"/>
+      <class id="*33" name="SUB_MECA_4N" htmlexportlink="index.html?frame=32"/>
+      <class id="*34" name="ESP_ENS_CeM_1N" htmlexportlink="index.html?frame=33"/>
+      <class id="*35" name="ESP_ENS_CeM_2N" htmlexportlink="index.html?frame=34"/>
+      <class id="*36" name="ESP_ENS_CeM_3N" htmlexportlink="index.html?frame=35"/>
+      <class id="*37" name="FIC_OPERADOR_1AN" htmlexportlink="index.html?frame=36"/>
+      <class id="*38" name="FIC_OPERADOR_1BN" htmlexportlink="index.html?frame=37"/>
+      <class id="*39" name="FIC_AUX_ELETR_1AN" htmlexportlink="index.html?frame=38"/>
+      <class id="*40" name="FIC_INST_REDES_1AV" htmlexportlink="index.html?frame=39"/>
+      <class id="*41" name="FIC_TORN_MEC_1AN" htmlexportlink="index.html?frame=40"/>
+      <class id="*42" name="CCNA_1N" htmlexportlink="index.html?frame=41"/>
+      <class id="*43" name="INT_INFO_4AM" htmlexportlink="index.html?frame=42"/>
+   </classes>
+   <subjects options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <subject id="*1" name="Administração de Sistemas Abertos" short="AdmSISAB" htmlexportlink=""/>
+      <subject id="*2" name="Administração de Sistemas Proprietários" short="AdmSISPROP" htmlexportlink=""/>
+      <subject id="*3" name="Administração de Sistemas Operacionais de Redes" short="AdmSOR" htmlexportlink=""/>
+      <subject id="*4" name="Algoritmos" short="Alg" htmlexportlink=""/>
+      <subject id="*5" name="Algoritmos e Técnicas de Programação" short="AlgoTecProgr" htmlexportlink=""/>
+      <subject id="*6" name="Análise e Projetos Orientados a Objetos" short="APOO" htmlexportlink=""/>
+      <subject id="*7" name="Arquitetura de Redes de Computadores" short="ArqRDComp" htmlexportlink=""/>
+      <subject id="*8" name="Arquitetura e Organização de Computadores" short="ArqOrgComput" htmlexportlink=""/>
+      <subject id="*9" name="Arquitetura TCP/IP" short="TCPIP" htmlexportlink=""/>
+      <subject id="*10" name="Arte" short="Arte" htmlexportlink=""/>
+      <subject id="*11" name="Autoria WEB" short="AutWEB" htmlexportlink=""/>
+      <subject id="*12" name="Banco de Dados I" short="BDI" htmlexportlink=""/>
+      <subject id="*13" name="Banco de Dados II" short="BDII" htmlexportlink=""/>
+      <subject id="*14" name="Biologia" short="Bio" htmlexportlink=""/>
+      <subject id="*15" name="Cabeamento Estruturado e Redes de Acesso" short="Cabeamento" htmlexportlink=""/>
+      <subject id="*16" name="CAD" short="CAD" htmlexportlink=""/>
+      <subject id="*17" name="Centro de Aprendizagem" short="CA" htmlexportlink=""/>
+      <subject id="*18" name="Comandos Elétricos e Acionamentos de Máquinas" short="ComEleMaq" htmlexportlink=""/>
+      <subject id="*19" name="Comandos Eletrohidráulicos e Eletropneumáticos" short="ComEletroPneum" htmlexportlink=""/>
+      <subject id="*20" name="Controladores Lógicos e Programáveis e Sistemas Supervisórios" short="Controladores" htmlexportlink=""/>
+      <subject id="*21" name="Desenho Técnico Mecânico" short="DesTecMec" htmlexportlink=""/>
+      <subject id="*22" name="Didática e Metodologia do Ensino de Ciências Naturais" short="Didatica_ESP" htmlexportlink=""/>
+      <subject id="*23" name="Educação e Meio Ambiente" short="EeMA" htmlexportlink=""/>
+      <subject id="*24" name="Educação Física" short="EdFis" htmlexportlink=""/>
+      <subject id="*25" name="Eletricidade" short="Eletric" htmlexportlink=""/>
+      <subject id="*26" name="Eletricidade e Eletrônica" short="Eletri_Eletro" htmlexportlink=""/>
+      <subject id="*27" name="Eletricidade Instrumental" short="EletInst" htmlexportlink=""/>
+      <subject id="*28" name="Eletrônica Analógica" short="EletrAnalogica" htmlexportlink=""/>
+      <subject id="*29" name="Eletrônica Analógica e Digital" short="EletroAnaDigi" htmlexportlink=""/>
+      <subject id="*30" name="Eletrônica Digital" short="EletroDigi" htmlexportlink=""/>
+      <subject id="*31" name="Engenharia de Software" short="EngSoft" htmlexportlink=""/>
+      <subject id="*32" name="Ensino de Ciências Naturais e Matemática através da resolução de situações-problemas " short="EnsiCienMatSit_ESP" htmlexportlink=""/>
+      <subject id="*33" name="Espanhol" short="Espanhol" htmlexportlink=""/>
+      <subject id="*34" name="Filosofia" short="Filo" htmlexportlink=""/>
+      <subject id="*35" name="Física" short="Fisi" htmlexportlink=""/>
+      <subject id="*36" name="Formação Docente Em Ciências" short="FormDoc_ESP" htmlexportlink=""/>
+      <subject id="*37" name="Fundamentos de Lógica e Algoritmos" short="FundLog" htmlexportlink=""/>
+      <subject id="*38" name="Fundamentos de SO e SO de Redes" short="SORedes" htmlexportlink=""/>
+      <subject id="*39" name="Fundamentos históricos, filosóficos e sociais" short="FHFS_ESP" htmlexportlink=""/>
+      <subject id="*40" name="Geografia" short="Geo" htmlexportlink=""/>
+      <subject id="*41" name="Gerência e Segurança de Redes" short="GerSegRed" htmlexportlink=""/>
+      <subject id="*42" name="Gestão Organizacional" short="GestOrg" htmlexportlink=""/>
+      <subject id="*43" name="História" short="Hist" htmlexportlink=""/>
+      <subject id="*44" name="Informática" short="Info" htmlexportlink=""/>
+      <subject id="*45" name="Inglês" short="Ing" htmlexportlink=""/>
+      <subject id="*46" name="Inglês Técnico" short="IngTec" htmlexportlink=""/>
+      <subject id="*47" name="Instrumentação Industrial" short="InsInd" htmlexportlink=""/>
+      <subject id="*48" name="Interconexão de Redes" short="Intercon" htmlexportlink=""/>
+      <subject id="*49" name="Introdução à Informática" short="IntInfo" htmlexportlink=""/>
+      <subject id="*50" name="Introdução à Mecatrônica" short="IntMeca" htmlexportlink=""/>
+      <subject id="*51" name="Introdução à Redes de Computadores" short="IntroRedes" htmlexportlink=""/>
+      <subject id="*52" name="Introdução a Sistemas Abertos" short="IntSisAb" htmlexportlink=""/>
+      <subject id="*53" name="Língua Inglesa" short="LingIngl" htmlexportlink=""/>
+      <subject id="*54" name="Língua Portuguesa" short="LingPort" htmlexportlink=""/>
+      <subject id="*55" name="Língua Portuguesa e Literatura" short="LPLit" htmlexportlink=""/>
+      <subject id="*56" name="Manufatura Auxiliada por Computador e Comando Numérico Computadorizado" short="ManComp" htmlexportlink=""/>
+      <subject id="*57" name="Matemática" short="Matemática" htmlexportlink=""/>
+      <subject id="*58" name="Materiais de Construção Mecânica" short="MatConstMec" htmlexportlink=""/>
+      <subject id="*59" name="Metodologia da pesquisa" short="MetPesq_ESP" htmlexportlink=""/>
+      <subject id="*60" name="Metodologia do Trabalho Científico" short="MetTrab" htmlexportlink=""/>
+      <subject id="*61" name="Metrologia" short="Metrol" htmlexportlink=""/>
+      <subject id="*62" name="Novas tecnologias no ensino de Ciências Naturais e Matemática" short="NovasTecEnsino_ESP" htmlexportlink=""/>
+      <subject id="*63" name="Organização e Manutenção de Computadores" short="OrgManut" htmlexportlink=""/>
+      <subject id="*64" name="Planejamento e Projeto de redes" short="PlanProj" htmlexportlink=""/>
+      <subject id="*65" name="Práticas laboratoriais no ensino de Ciências Naturais e Matemática" short="PratLabCienMat_ESP" htmlexportlink=""/>
+      <subject id="*66" name="Processo e Análise de Desenvolvimento de Sistemas" short="ProcAnDesSist" htmlexportlink=""/>
+      <subject id="*67" name="Processos de Usinagem" short="ProcUsi" htmlexportlink=""/>
+      <subject id="*68" name="Programação Básica" short="ProgBas" htmlexportlink=""/>
+      <subject id="*69" name="Programação com Acesso a Banco de Dados" short="PABD" htmlexportlink=""/>
+      <subject id="*70" name="Programação em Ambiente de Redes" short="ProgAmbRedes" htmlexportlink=""/>
+      <subject id="*71" name="Programação Estruturada e Orientada a Objetos" short="POO" htmlexportlink=""/>
+      <subject id="*72" name="Programação Orientada a Objetos" short="POO_" htmlexportlink=""/>
+      <subject id="*73" name="Programação Para Internet" short="ProgInter" htmlexportlink=""/>
+      <subject id="*74" name="Programação para Redes" short="ProgRedes" htmlexportlink=""/>
+      <subject id="*75" name="Programação WEB" short="ProgWeb" htmlexportlink=""/>
+      <subject id="*76" name="Programação Web I" short="ProgWebI" htmlexportlink=""/>
+      <subject id="*77" name="Programação Web II" short="ProgWebII" htmlexportlink=""/>
+      <subject id="*78" name="Projeto de Desenvolvimento de Software" short="PDS" htmlexportlink=""/>
+      <subject id="*79" name="Projeto de Sistemas Microcontolados" short="ProjSistemasMicro" htmlexportlink=""/>
+      <subject id="*80" name="Qualidade de Vida" short="Qualidade" htmlexportlink=""/>
+      <subject id="*81" name="Química" short="QuiI" htmlexportlink=""/>
+      <subject id="*82" name="Redes de Computadores" short="RedesComp" htmlexportlink=""/>
+      <subject id="*83" name="Reunião Pedagógica" short="RP" htmlexportlink=""/>
+      <subject id="*84" name="Robótica Industrial" short="RobIndstr" htmlexportlink=""/>
+      <subject id="*85" name="Segurança do Trabalho" short="SegTrab" htmlexportlink=""/>
+      <subject id="*86" name="Seminário de Integração_ESP" short="SemInteg" htmlexportlink=""/>
+      <subject id="*87" name="Seminários de Orientação para Trabalho de Conclusão de Curso" short="SemOriTCC_ESP" htmlexportlink=""/>
+      <subject id="*88" name="Sistemas Digitais" short="SistDigi" htmlexportlink=""/>
+      <subject id="*89" name="Sistemas Distribuídos" short="SistDistr" htmlexportlink=""/>
+      <subject id="*90" name="Sistemas Operacionais" short="SO" htmlexportlink=""/>
+      <subject id="*91" name="Sociologia" short="Soci" htmlexportlink=""/>
+      <subject id="*92" name="Sociologia do Trabalho" short="SociTrab" htmlexportlink=""/>
+      <subject id="*93" name="Tecnologia de Soldagem Mecânica" short="TecSoldMec" htmlexportlink=""/>
+      <subject id="*94" name="Tecnologia Mecânica" short="TecMec" htmlexportlink=""/>
+      <subject id="*95" name="Tecnologia Mecânica e Processos de Usinagem" short="TecMecUsi" htmlexportlink=""/>
+      <subject id="*96" name="Teorias Aprendizagem Ensino Ciências Naturais e Matemática" short="TeoAprendCienMat_ESP" htmlexportlink=""/>
+      <subject id="*97" name="Tópicos em Biologia" short="Top.BIO_ESP" htmlexportlink=""/>
+      <subject id="*98" name="Tópicos em Física" short="TopFis_ESP" htmlexportlink=""/>
+      <subject id="*99" name="Tópicos em Matemática" short="TopMat_ESP" htmlexportlink=""/>
+      <subject id="*100" name="Tópicos em Química" short="TopQuim_ESP" htmlexportlink=""/>
+      <subject id="*101" name="Introdução ao Sistema Operacional" short="IntroSO" htmlexportlink=""/>
+   </subjects>
+   <classrooms options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
+      <classroom id="*1" name="Sala 01" short="S01" htmlexportlink="rooms.html?frame=0"/>
+      <classroom id="*2" name="Sala 02" short="S02" htmlexportlink="rooms.html?frame=1"/>
+      <classroom id="*3" name="Sala 03" short="S03" htmlexportlink="rooms.html?frame=2"/>
+      <classroom id="*4" name="Sala 04" short="S04" htmlexportlink="rooms.html?frame=3"/>
+      <classroom id="*5" name="Sala 05" short="S05" htmlexportlink="rooms.html?frame=4"/>
+      <classroom id="*6" name="Sala 06" short="S06" htmlexportlink="rooms.html?frame=5"/>
+      <classroom id="*7" name="Sala 07" short="S07" htmlexportlink="rooms.html?frame=6"/>
+      <classroom id="*8" name="Sala 08" short="S08" htmlexportlink="rooms.html?frame=7"/>
+      <classroom id="*9" name="Sala 09" short="S09" htmlexportlink="rooms.html?frame=8"/>
+      <classroom id="*10" name="Sala 10" short="S10" htmlexportlink="rooms.html?frame=9"/>
+      <classroom id="*11" name="Laboratório de Informática 01" short="LABINFO01" htmlexportlink="rooms.html?frame=10"/>
+      <classroom id="*12" name="Laboratório de Informática 02" short="LABINFO02" htmlexportlink="rooms.html?frame=11"/>
+      <classroom id="*13" name="Laboratório de Redes" short="LABRedes" htmlexportlink="rooms.html?frame=12"/>
+      <classroom id="*14" name="Laboratório de Manutenção" short="LABManutencao" htmlexportlink="rooms.html?frame=13"/>
+      <classroom id="*15" name="Laboratório de Eletrônica" short="LABEletro" htmlexportlink="rooms.html?frame=14"/>
+      <classroom id="*16" name="Laboratório de Informática 03" short="LABINFO03" htmlexportlink="rooms.html?frame=15"/>
+      <classroom id="*17" name="Laboratório de Informática 04" short="LABINFO04" htmlexportlink="rooms.html?frame=16"/>
+      <classroom id="*18" name="Laboratório Mecânica I" short="LABMECA01" htmlexportlink="rooms.html?frame=17"/>
+      <classroom id="*19" name="Laboratório Mecânica II" short="LABMECA02" htmlexportlink="rooms.html?frame=18"/>
+      <classroom id="*20" name="Laboratório Metrologia" short="LABMETRO" htmlexportlink="rooms.html?frame=19"/>
+      <classroom id="*21" name="Laboratório de Instrumentação" short="LABInstrument" htmlexportlink="rooms.html?frame=20"/>
+      <classroom id="*22" name="Laboratório de Robótica" short="LABRobotica" htmlexportlink="rooms.html?frame=21"/>
+      <classroom id="*23" name="Laboratório de Soldagem" short="LabSolda" htmlexportlink="rooms.html?frame=22"/>
+      <classroom id="*24" name="Laboratório Pneumática" short="LabPneuMat" htmlexportlink="rooms.html?frame=23"/>
+      <classroom id="*25" name="Laboratório de Línguas" short="LabLinguas" htmlexportlink="rooms.html?frame=24"/>
+      <classroom id="*26" name="Sala 1 A (50 alunos)" short="S1A" htmlexportlink="rooms.html?frame=25"/>
+      <classroom id="*27" name="Sala 2 A (36 alunos)" short="S2A" htmlexportlink="rooms.html?frame=26"/>
+      <classroom id="*28" name="Sala 3 A (36 alunos)" short="S3A" htmlexportlink="rooms.html?frame=27"/>
+      <classroom id="*29" name="Sala 4 A (36 alunos)" short="S4A" htmlexportlink="rooms.html?frame=28"/>
+      <classroom id="*30" name="Sala 5 A 936 alunos)" short="S5A" htmlexportlink="rooms.html?frame=29"/>
+      <classroom id="*31" name="Sala 6 A (50 alunos)" short="S6A" htmlexportlink="rooms.html?frame=30"/>
+      <classroom id="*32" name="Laboratório de Acionamento de Máquinas" short="LabAcMaq" htmlexportlink="rooms.html?frame=31"/>
+      <classroom id="*33" name="Laboratório de Cabeamento" short="LabCabeamento" htmlexportlink="rooms.html?frame=32"/>
+   </classrooms>
+   <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
+   <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="0" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
+      <Weeks W0="Todas as semanas" W1="Semana A"/>
+      <Terms T0="Todo o ano" T1="Duração 1"/>
+      <strPrintWeek>Semana</strPrintWeek>
+      <strPrintTerm>Duração</strPrintTerm>
+   </Settings>
+</timetable>
