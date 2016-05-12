@@ -1,68 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <timetable ascttversion="2016.17.1" importtype="database" options="idprefix:MyApp">
    <teachers options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
-      <teacher id="*1" name="Alberto Alexandre" short="Alberto" htmlexportlink="teachers_0.html?frame=0"/>
-      <teacher id="*2" name="Aline Gomes" short="Aline" htmlexportlink="teachers_0.html?frame=1"/>
+      <teacher id="*1" name="Airton Araujo" short="Airton" htmlexportlink="teachers_0.html?frame=0"/>
+      <teacher id="*2" name="Alberto Alexandre" short="Alberto" htmlexportlink="teachers_0.html?frame=1"/>
       <teacher id="*3" name="Alison Batista" short="Alison" htmlexportlink="teachers_0.html?frame=2"/>
-      <teacher id="*4" name="Arlindo Lopes Barbosa" short="Arlindo" htmlexportlink="teachers_0.html?frame=3"/>
-      <teacher id="*5" name="Alvaro Hermano da Silva" short="Alvaro" htmlexportlink="teachers_0.html?frame=4"/>
-      <teacher id="*6" name="Antônio Henrique" short="Henrique" htmlexportlink="teachers_0.html?frame=5"/>
+      <teacher id="*4" name="Alvaro Hermano da Silva" short="Alvaro" htmlexportlink="teachers_0.html?frame=3"/>
+      <teacher id="*5" name="André Gustavo" short="André Gustavo" htmlexportlink="teachers_0.html?frame=4"/>
+      <teacher id="*6" name="Andrea Pereira" short="Andrea" htmlexportlink="teachers_0.html?frame=5"/>
       <teacher id="*7" name="Antonio André" short="Antonio André" htmlexportlink="teachers_0.html?frame=6"/>
-      <teacher id="*8" name="Airton Araujo" short="Airton" htmlexportlink="teachers_0.html?frame=7"/>
-      <teacher id="*9" name="Carlos Alberto de Negreiro" short="Carlos Negreiro" htmlexportlink="teachers_0.html?frame=8"/>
-      <teacher id="*10" name="Jurandy Soares" short="Jurandy" htmlexportlink="teachers_0.html?frame=9"/>
-      <teacher id="*11" name="Marcelo Varela" short="Marcelo" htmlexportlink="teachers_0.html?frame=10"/>
-      <teacher id="*12" name="Valdemiro Severiano Júnior" short="Júnior" htmlexportlink="teachers_0.html?frame=11"/>
-      <teacher id="*13" name="Eduardo Sérgio" short="Eduardo" htmlexportlink="teachers_0.html?frame=12"/>
-      <teacher id="*14" name="Irapuan Medeiros" short="Irapuan" htmlexportlink="teachers_0.html?frame=13"/>
-      <teacher id="*15" name="Carlos Magno" short="Carlos Magno" htmlexportlink="teachers_0.html?frame=14"/>
-      <teacher id="*16" name="Ricardo Cesar" short="Ricardo Cesar" htmlexportlink="teachers_0.html?frame=15"/>
-      <teacher id="*17" name="Romero Tertulino" short="Romero" htmlexportlink="teachers_0.html?frame=16"/>
-      <teacher id="*18" name="Priscila Seabra" short="Priscila" htmlexportlink="teachers_0.html?frame=17"/>
-      <teacher id="*19" name="Frank Vitor" short="Frank Vitor" htmlexportlink="teachers_0.html?frame=18"/>
-      <teacher id="*20" name="Fabia Meneses" short="Fabia" htmlexportlink="teachers_0.html?frame=19"/>
-      <teacher id="*21" name="Rogério Alves" short="Rogério" htmlexportlink="teachers_0.html?frame=20"/>
-      <teacher id="*22" name="Lúcia de Fátima" short="Lúcia" htmlexportlink="teachers_0.html?frame=21"/>
-      <teacher id="*23" name="Andrea Pereira" short="Andrea" htmlexportlink="teachers_0.html?frame=22"/>
-      <teacher id="*24" name="Givanaldo Rocha" short="Givanaldo" htmlexportlink="teachers_0.html?frame=23"/>
-      <teacher id="*25" name="Luiz Ricardo" short="Luiz Ricardo" htmlexportlink="teachers_0.html?frame=24"/>
-      <teacher id="*26" name="Emídio Gomes" short="Emídio" htmlexportlink="teachers_0.html?frame=25"/>
-      <teacher id="*27" name="Hilário" short="Hilário" htmlexportlink="teachers_0.html?frame=26"/>
-      <teacher id="*28" name="Carlos Eduardo" short="Carlos Eduardo" htmlexportlink="teachers_0.html?frame=27"/>
-      <teacher id="*29" name="Glenda Marques" short="Glenda" htmlexportlink="teachers_0.html?frame=28"/>
-      <teacher id="*30" name="Fábio Procópio" short="Fábio Procópio" htmlexportlink="teachers_0.html?frame=29"/>
-      <teacher id="*31" name="Valerio Gutemberg" short="Valério" htmlexportlink="teachers_0.html?frame=30"/>
-      <teacher id="*32" name="Bruno Emerson" short="Bruno" htmlexportlink="teachers_0.html?frame=31"/>
-      <teacher id="*33" name="Raphael Siqueira" short="Raphael" htmlexportlink="teachers_0.html?frame=32"/>
-      <teacher id="*34" name="Washington Luiz" short="Washington" htmlexportlink="teachers_0.html?frame=33"/>
-      <teacher id="*35" name="Maria Aparecida" short="Aparecida" htmlexportlink="teachers_0.html?frame=34"/>
-      <teacher id="*36" name="Ricardo Fernandes" short="Ricardo" htmlexportlink="teachers_0.html?frame=35"/>
-      <teacher id="*37" name="Eduardo Galvao" short="Eduardo Galvao" htmlexportlink="teachers_0.html?frame=36"/>
-      <teacher id="*38" name="Carlos Henrique" short="Carlos Henrique" htmlexportlink="teachers_0.html?frame=37"/>
-      <teacher id="*39" name="Diego Bacatela" short="Diego" htmlexportlink="teachers_0.html?frame=38"/>
-      <teacher id="*40" name="Rosineide" short="Rosineide" htmlexportlink="teachers_0.html?frame=39"/>
-      <teacher id="*41" name="Rodrigo Siqueira" short="Rodrigo" htmlexportlink="teachers_0.html?frame=40"/>
-      <teacher id="*42" name="Einstein" short="Einstein" htmlexportlink="teachers_0.html?frame=41"/>
-      <teacher id="*43" name="Zulmar Jofli" short="Zulmar" htmlexportlink="teachers_0.html?frame=42"/>
-      <teacher id="*44" name="João Mesquita" short="João Mesquita" htmlexportlink="teachers_0.html?frame=43"/>
-      <teacher id="*45" name="Filipe Campos" short="Filipe Campos" htmlexportlink="teachers_0.html?frame=44"/>
-      <teacher id="*46" name="Gustavo Fernandes" short="Gustavo Fernandes" htmlexportlink="teachers_0.html?frame=45"/>
-      <teacher id="*47" name="Paulo Vitor" short="Paulo Vitor" htmlexportlink="teachers_0.html?frame=46"/>
-      <teacher id="*48" name="Cinthia" short="Cinthia" htmlexportlink="teachers_0.html?frame=47"/>
-      <teacher id="*49" name="Érika Santos" short="Érika" htmlexportlink="teachers_0.html?frame=48"/>
-      <teacher id="*50" name="Jefferson Pereira" short="Jefferson Pereira" htmlexportlink="teachers_0.html?frame=49"/>
-      <teacher id="*51" name="Filipe Quintaes" short="Quintaes" htmlexportlink="teachers_1.html?frame=0"/>
-      <teacher id="*52" name="Xênia Brandão" short="Xênia" htmlexportlink="teachers_1.html?frame=1"/>
-      <teacher id="*53" name="Kleber Araújo" short="Kleber" htmlexportlink="teachers_1.html?frame=2"/>
-      <teacher id="*54" name="Tadeu Ferreira Oliveira" short="Tadeu" htmlexportlink="teachers_1.html?frame=3"/>
-      <teacher id="*55" name="Victor Costa" short="Victor" htmlexportlink="teachers_1.html?frame=4"/>
-      <teacher id="*56" name="João Nascimento" short="João Nascimento" htmlexportlink="teachers_1.html?frame=5"/>
-      <teacher id="*57" name="André Gustavo" short="André Gustavo" htmlexportlink="teachers_1.html?frame=6"/>
-      <teacher id="*58" name="Demóstenes Sena" short="Demóstenes Sena" htmlexportlink="teachers_1.html?frame=7"/>
-      <teacher id="*59" name="José Soares Lopes" short="José Soares" htmlexportlink="teachers_1.html?frame=8"/>
-      <teacher id="*60" name="Marta Silva" short="Marta Helena" htmlexportlink="teachers_1.html?frame=9"/>
-      <teacher id="*61" name="Roberto Klecius" short="Roberto Klecius" htmlexportlink="teachers_1.html?frame=10"/>
-      <teacher id="*62" name="Wesley Gomes" short="Wesley" htmlexportlink="teachers_1.html?frame=11"/>
+      <teacher id="*8" name="Antônio Henrique" short="Henrique" htmlexportlink="teachers_0.html?frame=7"/>
+      <teacher id="*9" name="Arlindo Lopes Barbosa" short="Arlindo" htmlexportlink="teachers_0.html?frame=8"/>
+      <teacher id="*10" name="Bruno Emerson" short="Bruno" htmlexportlink="teachers_0.html?frame=9"/>
+      <teacher id="*11" name="Carlos Negreiro" short="Carlos Negreiro" htmlexportlink="teachers_0.html?frame=10"/>
+      <teacher id="*12" name="Carlos Eduardo" short="Carlos Eduardo" htmlexportlink="teachers_0.html?frame=11"/>
+      <teacher id="*13" name="Carlos Henrique" short="Carlos Henrique" htmlexportlink="teachers_0.html?frame=12"/>
+      <teacher id="*14" name="Carlos Magno" short="Carlos Magno" htmlexportlink="teachers_0.html?frame=13"/>
+      <teacher id="*15" name="Cinthia Telles" short="Cinthia" htmlexportlink="teachers_0.html?frame=14"/>
+      <teacher id="*16" name="Credson Isaac" short="Credson" htmlexportlink="teachers_0.html?frame=15"/>
+      <teacher id="*17" name="Demóstenes Sena" short="Demóstenes Sena" htmlexportlink="teachers_0.html?frame=16"/>
+      <teacher id="*18" name="Diego Bacatela" short="Diego" htmlexportlink="teachers_0.html?frame=17"/>
+      <teacher id="*19" name="Eduardo Galvao" short="Eduardo Galvao" htmlexportlink="teachers_0.html?frame=18"/>
+      <teacher id="*20" name="Eduardo Sérgio" short="Eduardo" htmlexportlink="teachers_0.html?frame=19"/>
+      <teacher id="*21" name="Einstein" short="Einstein" htmlexportlink="teachers_0.html?frame=20"/>
+      <teacher id="*22" name="Emídio Gomes" short="Emídio" htmlexportlink="teachers_0.html?frame=21"/>
+      <teacher id="*23" name="Érika Santos" short="Érika" htmlexportlink="teachers_0.html?frame=22"/>
+      <teacher id="*24" name="Fabia Meneses" short="Fabia" htmlexportlink="teachers_0.html?frame=23"/>
+      <teacher id="*25" name="Fábio Procópio" short="Fábio Procópio" htmlexportlink="teachers_0.html?frame=24"/>
+      <teacher id="*26" name="Filipe Campos" short="Filipe Campos" htmlexportlink="teachers_0.html?frame=25"/>
+      <teacher id="*27" name="Filipe Quintaes" short="Quintaes" htmlexportlink="teachers_0.html?frame=26"/>
+      <teacher id="*28" name="Frank Vitor" short="Frank Vitor" htmlexportlink="teachers_0.html?frame=27"/>
+      <teacher id="*29" name="Givanaldo Rocha" short="Givanaldo" htmlexportlink="teachers_0.html?frame=28"/>
+      <teacher id="*30" name="Glenda Marques" short="Glenda" htmlexportlink="teachers_0.html?frame=29"/>
+      <teacher id="*31" name="Gustavo Fernandes" short="Gustavo Fernandes" htmlexportlink="teachers_0.html?frame=30"/>
+      <teacher id="*32" name="Hilário" short="Hilário" htmlexportlink="teachers_0.html?frame=31"/>
+      <teacher id="*33" name="Irapuan Medeiros" short="Irapuan" htmlexportlink="teachers_0.html?frame=32"/>
+      <teacher id="*34" name="Jefferson Pereira" short="Jefferson Pereira" htmlexportlink="teachers_0.html?frame=33"/>
+      <teacher id="*35" name="João Mesquita" short="João Mesquita" htmlexportlink="teachers_0.html?frame=34"/>
+      <teacher id="*36" name="João Nascimento" short="João Nascimento" htmlexportlink="teachers_0.html?frame=35"/>
+      <teacher id="*37" name="José Soares Lopes" short="José Soares" htmlexportlink="teachers_0.html?frame=36"/>
+      <teacher id="*38" name="Jurandy Soares" short="Jurandy" htmlexportlink="teachers_0.html?frame=37"/>
+      <teacher id="*39" name="Kleber Araújo" short="Kleber" htmlexportlink="teachers_0.html?frame=38"/>
+      <teacher id="*40" name="Lúcia de Fátima" short="Lúcia" htmlexportlink="teachers_0.html?frame=39"/>
+      <teacher id="*41" name="Luiz Ricardo" short="Luiz Ricardo" htmlexportlink="teachers_0.html?frame=40"/>
+      <teacher id="*42" name="Marcelo Varela" short="Marcelo" htmlexportlink="teachers_0.html?frame=41"/>
+      <teacher id="*43" name="Maria Aparecida" short="Aparecida" htmlexportlink="teachers_0.html?frame=42"/>
+      <teacher id="*44" name="Marta Silva" short="Marta Helena" htmlexportlink="teachers_0.html?frame=43"/>
+      <teacher id="*45" name="Paulo Vitor" short="Paulo Vitor" htmlexportlink="teachers_0.html?frame=44"/>
+      <teacher id="*46" name="Priscila Seabra" short="Priscila" htmlexportlink="teachers_0.html?frame=45"/>
+      <teacher id="*47" name="Raphael Siqueira" short="Raphael" htmlexportlink="teachers_0.html?frame=46"/>
+      <teacher id="*48" name="Ricardo Cesar" short="Ricardo Cesar" htmlexportlink="teachers_0.html?frame=47"/>
+      <teacher id="*49" name="Ricardo Fernandes" short="Ricardo" htmlexportlink="teachers_0.html?frame=48"/>
+      <teacher id="*50" name="Roberto Klecius" short="Roberto Klecius" htmlexportlink="teachers_0.html?frame=49"/>
+      <teacher id="*51" name="Rodrigo Siqueira" short="Rodrigo" htmlexportlink="teachers_1.html?frame=0"/>
+      <teacher id="*52" name="Rogério Alves" short="Rogério" htmlexportlink="teachers_1.html?frame=1"/>
+      <teacher id="*53" name="Romero Tertulino" short="Romero" htmlexportlink="teachers_1.html?frame=2"/>
+      <teacher id="*54" name="Rosineide" short="Rosineide" htmlexportlink="teachers_1.html?frame=3"/>
+      <teacher id="*55" name="Tadeu Ferreira Oliveira" short="Tadeu" htmlexportlink="teachers_1.html?frame=4"/>
+      <teacher id="*56" name="Tiago Carvalho" short="Tiago Carvalho" htmlexportlink="teachers_1.html?frame=5"/>
+      <teacher id="*57" name="Valdemiro Severiano Júnior" short="Júnior" htmlexportlink="teachers_1.html?frame=6"/>
+      <teacher id="*58" name="Valerio Gutemberg" short="Valério" htmlexportlink="teachers_1.html?frame=7"/>
+      <teacher id="*59" name="Victor Costa" short="Victor" htmlexportlink="teachers_1.html?frame=8"/>
+      <teacher id="*60" name="Washington Luiz" short="Washington" htmlexportlink="teachers_1.html?frame=9"/>
+      <teacher id="*61" name="Wesley Gomes" short="Wesley" htmlexportlink="teachers_1.html?frame=10"/>
+      <teacher id="*62" name="Xênia Brandão" short="Xênia" htmlexportlink="teachers_1.html?frame=11"/>
+      <teacher id="*63" name="Zulmar Jofli" short="Zulmar" htmlexportlink="teachers_1.html?frame=12"/>
    </teachers>
    <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
       <class id="*1" name="INT_INFO_1AM" htmlexportlink="index.html?frame=0"/>
@@ -107,7 +108,6 @@
       <class id="*40" name="FIC_INST_REDES_1AV" htmlexportlink="index.html?frame=39"/>
       <class id="*41" name="FIC_TORN_MEC_1AN" htmlexportlink="index.html?frame=40"/>
       <class id="*42" name="CCNA_1N" htmlexportlink="index.html?frame=41"/>
-      <class id="*43" name="INT_INFO_4AM" htmlexportlink="index.html?frame=42"/>
    </classes>
    <subjects options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
       <subject id="*1" name="Administração de Sistemas Abertos" short="AdmSISAB" htmlexportlink=""/>
@@ -238,14 +238,16 @@
       <classroom id="*23" name="Laboratório de Soldagem" short="LabSolda" htmlexportlink="rooms.html?frame=22"/>
       <classroom id="*24" name="Laboratório Pneumática" short="LabPneuMat" htmlexportlink="rooms.html?frame=23"/>
       <classroom id="*25" name="Laboratório de Línguas" short="LabLinguas" htmlexportlink="rooms.html?frame=24"/>
-      <classroom id="*26" name="Sala 1 A (50 alunos)" short="S1A" htmlexportlink="rooms.html?frame=25"/>
-      <classroom id="*27" name="Sala 2 A (36 alunos)" short="S2A" htmlexportlink="rooms.html?frame=26"/>
-      <classroom id="*28" name="Sala 3 A (36 alunos)" short="S3A" htmlexportlink="rooms.html?frame=27"/>
-      <classroom id="*29" name="Sala 4 A (36 alunos)" short="S4A" htmlexportlink="rooms.html?frame=28"/>
-      <classroom id="*30" name="Sala 5 A 936 alunos)" short="S5A" htmlexportlink="rooms.html?frame=29"/>
-      <classroom id="*31" name="Sala 6 A (50 alunos)" short="S6A" htmlexportlink="rooms.html?frame=30"/>
+      <classroom id="*26" name="Sala 69 (50 alunos)" short="S69" htmlexportlink="rooms.html?frame=25"/>
+      <classroom id="*27" name="Sala 71 (36 alunos)" short="S71" htmlexportlink="rooms.html?frame=26"/>
+      <classroom id="*28" name="Sala 72 (36 alunos)" short="S72" htmlexportlink="rooms.html?frame=27"/>
+      <classroom id="*29" name="Sala 75 (36 alunos)" short="S75" htmlexportlink="rooms.html?frame=28"/>
+      <classroom id="*30" name="Sala 76 (36 alunos)" short="S76" htmlexportlink="rooms.html?frame=29"/>
+      <classroom id="*31" name="Sala 78 (50 alunos)" short="S78" htmlexportlink="rooms.html?frame=30"/>
       <classroom id="*32" name="Laboratório de Acionamento de Máquinas" short="LabAcMaq" htmlexportlink="rooms.html?frame=31"/>
       <classroom id="*33" name="Laboratório de Cabeamento" short="LabCabeamento" htmlexportlink="rooms.html?frame=32"/>
+      <classroom id="*34" name="Sala 79" short="S79" htmlexportlink="rooms.html?frame=33"/>
+      <classroom id="*35" name="Sala 68" short="S68" htmlexportlink="rooms.html?frame=34"/>
    </classrooms>
    <students options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,classid,name,htmlexportlink"/>
    <Settings bPrintClass="1" bPrintTeacher="1" bPrintClassroom="1" bPrintStudents="0" strPrintClass="Turmas" strPrintTeacher="Professores" strPrintClassroom="Salas" strPrintStudent="Estudantes" strPrintSummary="Horários resumidos" bPrintSummaryClass="0" bPrintSummaryTeacher="0" bPrintSummaryClassroom="0" strPrintSummaryClass="Turmas" strPrintSummaryTeacher="Professores" strPrintSummaryClassroom="Salas" bSeparateWeeksTerms="0" nWeeks="0" nTerms="0">
