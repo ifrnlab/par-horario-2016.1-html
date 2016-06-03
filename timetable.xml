@@ -35,7 +35,7 @@
       <teacher id="*32" name="Hilário" short="Hilário" htmlexportlink="teachers_0.html?frame=31"/>
       <teacher id="*33" name="Irapuan Medeiros" short="Irapuan" htmlexportlink="teachers_0.html?frame=32"/>
       <teacher id="*34" name="Jefferson Pereira" short="Jefferson Pereira" htmlexportlink="teachers_0.html?frame=33"/>
-      <teacher id="*35" name="João Mesquita" short="João Mesquita" htmlexportlink="teachers_0.html?frame=34"/>
+      <teacher id="*35" name="Igor Dantas" short="Igor" htmlexportlink="teachers_0.html?frame=34"/>
       <teacher id="*36" name="João Nascimento" short="João Nascimento" htmlexportlink="teachers_0.html?frame=35"/>
       <teacher id="*37" name="José Soares Lopes" short="José Soares" htmlexportlink="teachers_0.html?frame=36"/>
       <teacher id="*38" name="Jurandy Soares" short="Jurandy" htmlexportlink="teachers_0.html?frame=37"/>
@@ -64,6 +64,7 @@
       <teacher id="*61" name="Wesley Gomes" short="Wesley" htmlexportlink="teachers_1.html?frame=10"/>
       <teacher id="*62" name="Xênia Brandão" short="Xênia" htmlexportlink="teachers_1.html?frame=11"/>
       <teacher id="*63" name="Zulmar Jofli" short="Zulmar" htmlexportlink="teachers_1.html?frame=12"/>
+      <teacher id="*64" name="Pedrina Brasil" short="Pedrina" htmlexportlink="teachers_1.html?frame=13"/>
    </teachers>
    <classes options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name, short,htmlexportlink">
       <class id="*1" name="INT_INFO_1AM" htmlexportlink="index.html?frame=0"/>
@@ -211,6 +212,7 @@
       <subject id="*99" name="Tópicos em Matemática" short="TopMat_ESP" htmlexportlink=""/>
       <subject id="*100" name="Tópicos em Química" short="TopQuim_ESP" htmlexportlink=""/>
       <subject id="*101" name="Introdução ao Sistema Operacional" short="IntroSO" htmlexportlink=""/>
+      <subject id="*102" name="Seminário de Iniciação à Pesquisa e à Extensão" short="SPesqExt" htmlexportlink=""/>
    </subjects>
    <classrooms options="import:disable,canadd,canremove,canupdate,primarytt,silent" columns="id,name,short,htmlexportlink">
       <classroom id="*1" name="Sala 01" short="S01" htmlexportlink="rooms.html?frame=0"/>
